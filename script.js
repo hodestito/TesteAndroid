@@ -1,1 +1,3 @@
-console.log("teste")
+function teste() {
+  alert("Funcionou");
+} 
